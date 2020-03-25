@@ -6,7 +6,9 @@
 
 ## Overview
 
-[App Screenshot](https://user-images.githubusercontent.com/2694314877580810-63c4c100-6ebb-11ea-8775-e07b97bf7b20.png)
+<h1 align="center">
+    <img alt="Home" src="https://user-images.githubusercontent.com/2694314877580810-63c4c100-6ebb-11ea-8775-e07b97bf7b20.png" />
+</h1>
 
 ## Technologies
 
