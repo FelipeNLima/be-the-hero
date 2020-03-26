@@ -6,7 +6,7 @@
 
 ## Overview
 
-![App Screenshot](https://user-images.githubusercontent.com/2694314877580810-63c4c100-6ebb-11ea-8775-e07b97bf7b20.png)
+![home](https://user-images.githubusercontent.com/26943148/77581732-03368380-6ebd-11ea-817d-a363625317e8.png)
 
 ## Technologies
 
