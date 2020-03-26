@@ -31,8 +31,8 @@
 ### Mobile
 
 - [React Native](https://facebook.github.io/react-native/)
-- [react-native-gesture-handler](https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html)
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-
+- [expo](https://docs.expo.io/versions/latest/)
+- [react-navigation](https://reactnavigation.org/)
+- [axios](https://github.com/axios/axios)
 
 Made with by Felipe Lima :smiley: [Get in touch!](https://www.linkedin.com/in/felipe-lima-00bb62171/)
