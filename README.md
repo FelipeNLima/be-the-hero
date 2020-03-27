@@ -19,6 +19,8 @@
 - [nodemon](https://nodemon.io/)
 - [cors](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS)
 - [knex](http://knexjs.org/)
+- [jest](https://jestjs.io/)
+- [celebrate](https://github.com/arb/celebrate)
 
 
 ### Frontend
